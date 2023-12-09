@@ -1,0 +1,2 @@
+go build day08.go
+./day08 -part2 < input.txt

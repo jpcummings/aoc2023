@@ -1,0 +1,6 @@
+notes
+
+need a function that will map source to dest given the direction of step and the network
+
+store the network in a map of the two possible destinations, keyed by the source.
+.
